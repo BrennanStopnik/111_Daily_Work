@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Assignment_Central"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
